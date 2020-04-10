@@ -1,4 +1,4 @@
-<!DOCTYPEhtml> <!--subjectTable1.html -->
+<!DOCTYPEhtml> <!--TimeTable.html -->
 <html lang="ko">
 <head>
   <meta charset="utf-8"/>
@@ -7,8 +7,12 @@
     table, thead, tbody, tfoot, tr, th, td { 
       border:2px solid black;
       border-collapse:collapse; text-align:center; }
-    .subject1{ background-color:lightblue; } 
-    .subject2{ background-color:#FAF4C0; }
+    .subject1{ background-color:lightblue; }
+    .subject2{ background-color:lightyellow; }
+    .subject3{ background-color:orange; }
+    .subject4{ background-color:lightgreen; }
+    .subject5{ background-color:lightblue; }
+    .subject6{ background-color:lightgray; }
     th, td { width:110px; height:75px; }
   </style> <!--border-collapse:collapse 단선으로, 반대는 separate -->
   <title>HTML5 시간표</title>
@@ -28,8 +32,8 @@
       <td></td>
       <td class="subject1">이산 수학</td>
       <td></td>
-      <td class="subject1">캡스톤 디자인</td>
-      <td class="subject1">프로잭트 관리</td>
+      <td class="subject2">캡스톤 디자인</td>
+      <td class="subject3">프로잭트 관리</td>
     </tr>
     
     <tr>
@@ -38,7 +42,7 @@
     
     <tr>
       <td>3교시</td> <td></td>
-      <td rowspan="2" class="subject1">네트워크 보안</td>
+      <td rowspan="2" class="subject4">네트워크 보안</td>
       <td></td> <td></td> <td></td> <td></td>
     </tr>
     
@@ -47,22 +51,22 @@
     </tr>
     
     <tr>
-      <td>5교시</td> <td rowspan="2" class="subject2">대학 일본어</td>
+      <td>5교시</td> <td rowspan="2" class="subject5">대학 일본어</td>
       <td></td> <td></td> <td></td> <td></td> <td></td>
     </tr>
     
     <tr>
       <td>6교시</td> <td></td> <td></td>
-      <td class="subject1">네트워크 보안</td> <td></td> <td></td>
+      <td class="subject4">네트워크 보안</td> <td></td> <td></td>
     </tr>
     
     <tr>
-      <td>7교시</td> <td rowspan="2" class="subject1">캡스톤 디자인</td> <td></td>
-      <td rowspan="2" class="subject1">인터넷 응용</td> <td></td> <td></td> <td></td>
+      <td>7교시</td> <td rowspan="2" class="subject2">캡스톤 디자인</td> <td></td>
+      <td rowspan="2" class="subject6">인터넷 응용</td> <td></td> <td></td> <td></td>
     </tr>
     
     <tr>
-      <td>8교시</td> <td></td> <td></td> <td class="subject1">인터넷 응용</td> <td></td>
+      <td>8교시</td> <td></td> <td></td> <td class="subject6">인터넷 응용</td> <td></td>
     </tr>
   </tbody>
 </table>
