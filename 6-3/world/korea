@@ -1,4 +1,4 @@
-<!doctype html> <!-- daejeon.html -->
+<!doctype html> <!-- korea.html -->
 <html>
   <head>
     <meta charset="utf-8"/>
@@ -8,5 +8,6 @@
     <body>
       <p>한국을 클릭하셨습니다.</p>
       <p>대한민국의 수도는 서울입니다.</p>
+      <a href="https://namu.wiki/w/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD"_blank">대한민국(나무위키)</a><br/>
     </body>
 </html>
