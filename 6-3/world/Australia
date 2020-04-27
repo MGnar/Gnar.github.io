@@ -1,0 +1,13 @@
+<!doctype html> <!-- Australia.html -->
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>HTML5 세계 수도</title>
+    </head>
+    <body>
+      <p>오스트레일리아을 클릭하셨습니다.</p>
+      <p>오스트레일리아의 수도는 켄버라입니다.</p>
+      <a href="https://namu.wiki/w/%ED%98%B8%EC%A3%BC?from=%EC%98%A4%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%BC%EB%A6%AC%EC%95%84"_blank">오스트레일리아(나무위키)</a><br/>
+    </body>
+</html>
