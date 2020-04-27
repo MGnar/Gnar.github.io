@@ -1,0 +1,13 @@
+<!doctype html> <!-- KalaallitNunaat.html -->
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>HTML5 세계 수도</title>
+    </head>
+    <body>
+      <p>그린란드을 클릭하셨습니다.</p>
+      <p>그린란드의 수도는 누크입니다.</p>
+      <a href="https://namu.wiki/w/%EA%B7%B8%EB%A6%B0%EB%9E%80%EB%93%9C"_blank">그린란드(나무위키)</a><br/>
+    </body>
+</html>
