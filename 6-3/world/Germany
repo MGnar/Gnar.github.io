@@ -1,0 +1,13 @@
+<!doctype html> <!-- Germany.html -->
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>HTML5 세계 수도</title>
+    </head>
+    <body>
+      <p>독일을 클릭하셨습니다.</p>
+      <p>독일의 수도는 서울입니다.</p>
+      <a href="https://namu.wiki/w/%EB%8F%85%EC%9D%BC"_blank">독일(나무위키)</a><br/>
+    </body>
+</html>
