@@ -1,0 +1,13 @@
+<!doctype html> <!-- NorthKorea.html -->
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>HTML5 세계 수도</title>
+    </head>
+    <body>
+      <p>북한을 클릭하셨습니다.</p>
+      <p>북한의 수도는 평양입니다.</p>
+      <a href="https://namu.wiki/w/%EB%B6%81%ED%95%9C"_blank">대한민국(나무위키)</a><br/>
+    </body>
+</html>
